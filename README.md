@@ -1,2 +1,0 @@
-# DemoEgghead
-Created with CodeSandbox
